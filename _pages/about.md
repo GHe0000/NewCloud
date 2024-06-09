@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "GHe 的个人主页"
+title: "Guotao He 的个人主页"
 author_profile: true
 redirect_from: 
   - /about/
