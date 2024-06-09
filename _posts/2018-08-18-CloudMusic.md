@@ -6,6 +6,8 @@ categories:
 tags: [爬虫,Python]
 ---
 
+<!-- more -->
+
 此项目为精简网易云音乐的一部分，Github项目地址：https://github.com/ghe0000/CloudMusic
 
 # 收集信息
