@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Guotao He"
   pronouns         : # example: "she/her"  
-  bio              : "暂时没想好的简要介绍"
+  bio              : "暂时没想好的介绍"
   location         : "Earth"
   employer         : "Xiamen University"
   uri              : https://ghe0000.github.io/NewCloud/
@@ -281,7 +281,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
