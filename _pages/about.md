@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-一个简单的个人主页。
+这是一个简单的个人主页，主要是更加便捷地分享一些我的 Blog 和稿件。
+
+To Do
